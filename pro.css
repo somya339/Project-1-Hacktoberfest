@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Simonetta:ital@1&display=swap');
+
 body{
   background-color: #e4a3d4;
   margin: 0 auto;
   padding-top: 0;
   font-size: 20px;
+  font-family : "simonetta" , cursive,
   /*position: absolute;*/
 }
 
